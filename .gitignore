@@ -1,0 +1,6 @@
+# Ignore LaTeX build files if you include source
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
